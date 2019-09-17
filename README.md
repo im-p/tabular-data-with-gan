@@ -1,0 +1,2 @@
+# synteettinen_data
+Opinnäytetyö
